@@ -5,10 +5,12 @@ Oops! You found a secret 🌟🐛🌸🌛🌜
 
 # I'm 27 years old, living in Brazil and now, i'm in career transition.
 # 🔭 Currently working at a University as a pedagogical coordinator.
+
 # 🌱 I’m currently learning: 
 ## Tools and tecnologies
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
