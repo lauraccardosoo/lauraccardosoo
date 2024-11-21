@@ -24,11 +24,8 @@ Oops! You found a secret 🌟🐛🌸🌛🌜
 <a href="https://www.linkedin.com/in/lauraccardosoo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<div> 
- <a class="tenor-gif-embed" data-postid="8883962328908309641" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hello-kitty-sanrio-hello-kitty-sanrio-character-gif-8883962328908309641">Hello Kitty Sanrio GIF</a>from <a href="https://tenor.com/search/hello+kitty-gifs">Hello Kitty GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
- 
-
+<div class="tenor-gif-embed" data-postid="9337430562745204577" data-share-method="host" data-aspect-ratio="1.08276" data-width="100%"><a href="https://tenor.com/view/cat-cat-stare-side-eye-side-eye-meme-ginger-cat-gif-9337430562745204577">Cat Cat Stare GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 # ⚡ Fun fact:
-![Snake animation](https://github.com/lauraccardosoo/lauraccardosoo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lauraccardosoo/blob/output/github-contribution-grid-snake.svg)
 
