@@ -24,7 +24,9 @@ Oops! You found a secret 🌟🐛🌸🌛🌜
 <a href="https://www.linkedin.com/in/lauraccardosoo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<div class="tenor-gif-embed" data-postid="8883962328908309641" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hello-kitty-sanrio-hello-kitty-sanrio-character-gif-8883962328908309641">Hello Kitty Sanrio GIF</a>from <a href="https://tenor.com/search/hello+kitty-gifs">Hello Kitty GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div> 
+ <a class="tenor-gif-embed" data-postid="8883962328908309641" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hello-kitty-sanrio-hello-kitty-sanrio-character-gif-8883962328908309641">Hello Kitty Sanrio GIF</a>from <a href="https://tenor.com/search/hello+kitty-gifs">Hello Kitty GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+ 
 
 
 # ⚡ Fun fact:
